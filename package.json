@@ -34,7 +34,7 @@
     "postcss": "^8.5.6",
     "autoprefixer": "^10.4.21",
     "@tailwindcss/typography": "^0.5.16",
-    "eslint": "^9.32.0",
+    "eslint": "^8.57.0",
     "eslint-config-next": "14.2.5"
   }
 }
